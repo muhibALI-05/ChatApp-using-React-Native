@@ -22,4 +22,4 @@ Run the project
 
 ```
 npx expo start
-
+```
