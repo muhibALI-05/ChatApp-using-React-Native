@@ -1,5 +1,18 @@
 # Chat App using React Native and Firebase
 
+Add expo files using- 
+
+```
+yarn add expo
+
+```
+then run-
+
+```
+npm install
+```
+To install necessary packages and dependencies.
+
 Clone the repo
 
 ```
